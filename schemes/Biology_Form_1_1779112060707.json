@@ -1,0 +1,64 @@
+{
+  "subject": "Biology",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 1",
+  "termStart": "2026-05-18",
+  "ability": "Mixed Ability",
+  "ageRange": "14 - 16",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Demonstration",
+      "resources": "Textbook; Chalkboard; Charts; Realia; Videos; Projector",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "18/05/26",
+      "dateEnd": "22/05/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "25/05/26",
+      "dateEnd": "29/05/26"
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "01/06/26",
+      "dateEnd": "05/06/26"
+    },
+    {
+      "weekNum": 4,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "08/06/26",
+      "dateEnd": "12/06/26"
+    }
+  ]
+}
