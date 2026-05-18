@@ -1,0 +1,38 @@
+{
+  "subject": "Biology",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 1",
+  "termStart": "2026-04-20",
+  "ability": "Mixed Ability",
+  "ageRange": "14 - 16",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Demonstration; Experiment",
+      "resources": "Textbook; Chalkboard; Charts; Pictures / Photographs; Videos; Projector",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "20/04/26",
+      "dateEnd": "24/04/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Experiment; Project-Based Learning",
+      "resources": "Textbook; Chalkboard; Charts; Pictures / Photographs; Models; Computers / Tablets",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "27/04/26",
+      "dateEnd": "01/05/26"
+    }
+  ]
+}
