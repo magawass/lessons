@@ -1,0 +1,25 @@
+{
+  "subject": "Biology",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 1",
+  "termStart": "2026-04-20",
+  "ability": "Mixed Ability",
+  "ageRange": "14 - 16",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "Digestion",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Inquiry-Based Learning; Brainstorming",
+      "resources": "Textbook; Chalkboard; Charts; Videos; Projector; Computers / Tablets",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "20/04/26",
+      "dateEnd": "24/04/26"
+    }
+  ]
+}
