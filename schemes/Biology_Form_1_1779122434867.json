@@ -1,0 +1,25 @@
+{
+  "subject": "Biology",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 1",
+  "termStart": "2026-05-18",
+  "ability": "Mixed Ability",
+  "ageRange": "",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "18/05/26",
+      "dateEnd": "22/05/26"
+    }
+  ]
+}
