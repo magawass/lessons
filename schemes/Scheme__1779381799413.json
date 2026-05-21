@@ -1,0 +1,51 @@
+{
+  "subject": "",
+  "year": "2026",
+  "term": "",
+  "cls": "",
+  "termStart": "2026-04-20",
+  "ability": "",
+  "ageRange": "",
+  "periods": "",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "20/04/26",
+      "dateEnd": "24/04/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "27/04/26",
+      "dateEnd": "01/05/26"
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "04/05/26",
+      "dateEnd": "08/05/26"
+    }
+  ]
+}
