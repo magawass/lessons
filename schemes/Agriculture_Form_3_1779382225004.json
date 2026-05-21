@@ -1,0 +1,51 @@
+{
+  "subject": "Agriculture",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 3",
+  "termStart": "2026-05-20",
+  "ability": "High Ability",
+  "ageRange": "12 - 14",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "TOPIC: Nutrion",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Demonstration; Experiment; Inquiry-Based Learning",
+      "resources": "Textbook; Chalkboard; Charts; Pictures / Photographs; Models; Specimens; Maps; Projector; Computers / Tablets",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "20/05/26",
+      "dateEnd": "24/05/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Pair Work; Demonstration; Project-Based Learning; Discovery Method; Brainstorming",
+      "resources": "Textbook; Chalkboard; Charts; Pictures / Photographs; Realia; Models; Specimens; Maps; Projector; Computers / Tablets",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "27/05/26",
+      "dateEnd": "31/05/26"
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "Discussion; Lecture; Question and Answer; Group Work; Demonstration; Experiment; Project-Based Learning",
+      "resources": "Textbook; Chalkboard; Charts; Pictures / Photographs; Models; Specimens; Maps; Videos; Projector",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "03/06/26",
+      "dateEnd": "07/06/26"
+    }
+  ]
+}
