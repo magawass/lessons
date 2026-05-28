@@ -1,0 +1,51 @@
+{
+  "subject": "Biology",
+  "year": "2026",
+  "term": "Term 3",
+  "cls": "Form 2",
+  "termStart": "2026-05-28",
+  "ability": "Mixed Ability",
+  "ageRange": "14 - 16",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "28/05/26",
+      "dateEnd": "01/06/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "04/06/26",
+      "dateEnd": "08/06/26"
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "11/06/26",
+      "dateEnd": "15/06/26"
+    }
+  ]
+}
