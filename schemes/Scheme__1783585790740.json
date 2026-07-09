@@ -1,0 +1,25 @@
+{
+  "subject": "",
+  "year": "2026",
+  "term": "",
+  "cls": "",
+  "termStart": "",
+  "ability": "",
+  "ageRange": "",
+  "periods": "",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    }
+  ]
+}
