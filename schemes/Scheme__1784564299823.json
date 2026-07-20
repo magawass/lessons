@@ -1,0 +1,90 @@
+{
+  "subject": "",
+  "year": "2026",
+  "term": "",
+  "cls": "",
+  "termStart": "",
+  "ability": "",
+  "ageRange": "",
+  "periods": "",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "weekNum": 4,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "weekNum": 5,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "weekNum": 6,
+      "topic": "",
+      "successCriteria": "",
+      "plannedActivities": "",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "",
+      "dateEnd": ""
+    }
+  ]
+}
