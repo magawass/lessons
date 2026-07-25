@@ -1,0 +1,89 @@
+{
+  "school": "Magawa Secondary School",
+  "cls": "Form 2",
+  "subject": "Biology",
+  "core": "",
+  "topic": "",
+  "date": "",
+  "time": "8:10 AM - 8:50 AM",
+  "duration": "40",
+  "periodsPerWeek": "",
+  "rationale": "",
+  "successCriteria": "",
+  "prereq": "",
+  "resources": "",
+  "methods": "",
+  "lessonDev": {
+    "introduction": [
+      {
+        "teacher": "Greet learners and introduce topic: the lesson topic.",
+        "student": "Respond to greetings and pay attention.",
+        "points": "Awareness of today's lesson topic.",
+        "time": 5
+      }
+    ],
+    "steps": [
+      {
+        "label": "Step 1",
+        "rows": [
+          {
+            "teacher": "Instruct students to form groups and discuss the following:\n- HUMAN DIGESTIVE SYSTEM\n- DIGESTION\n\nAreas to focus on are:\n-HUMAN DIGESTIVE SYSTEM\nIs a system involved in the breakdown of ingested food into smaller molecules that can be absorbed into the  blood stream and eventually the body cells and tissues.\n-This process takes place in the alimentary canal or gut\nFood substances are broken down in the alimentary canal or  gut.\nExamples of food substances are: carbohydrates, proteins, vitamins, lipids and mineral salts.\n-PARTS OF THE  HUMAN DIGESTIVE SYSTEM\n-DIGESTION\nIs the breaking down of food into smaller molecules that can be absorbed by the body.",
+            "student": "Students form groups, read through the notes, discuss the main ideas, and take notes on key content.",
+            "points": "HUMAN DIGESTIVE SYSTEM\nIs a system involved in the breakdown of ingested food\nThis process takes place in the alimentary canal or gut\nFood substances are broken down in the alimentary canal or\nExamples of food substances are: carbohydrates, proteins, vitamins, lipids and\nPARTS OF THE  HUMAN DIGESTIVE SYSTEM\nDIGESTION\nIs the breaking down of food into smaller molecules that"
+          }
+        ],
+        "time": 10
+      },
+      {
+        "label": "Step 2",
+        "rows": [
+          {
+            "teacher": "Ask students to present to the class what they have discussed in their groups.\nSupervise presentations and guide as needed.",
+            "student": "Students present findings to class. Other groups ask questions.\nTake notes from the presentations.",
+            "points": "TYPES OF DIGESTION\n* Physical\n* Chemical\nPHYSICAL DIGESTION\nIs the process whereby food is broken down into smaller\nThis only changes the form of food\nCHEMICAL DIGESTION\nIs the breaking down of food particles into smaller molecules\nThis changes the food materials from simple to complex\nDIGESTION IN THE MOUTH\nIn the mouth, teeth grinds food making it swallow-able hence\nThe tongue has taste buds which makes us perceive the\nThe tongue also mixes the food with saliva\nSaliva is produced by salivary glands\nSaliva moistens the food\nSalivary Glands\nProduce saliva which  contain water, mucus, salivary amylase\nWater softens the food\nMucus makes food slippery for easy swallowing\nSalivary amylase digest starch to maltose\nEpiglottis\nIs a piece of tissue that covers the entrance into\nEpiglottis stops the food particles from entering into the wind\nOesophagus: moves the food down to the stomach in a\nStomach\nCarries out mechanical/physical digestion\nDue to its muscular contractions food is mixed with mucus\nIt carries out chemical digestion, since its walls produce enzymes\nThe Small Intestine\nHas two parts\n-the duodenum\n-the ileum\nDuodenum\nIs the first part of  the small intestines\nHas two organs\n* Pancreas\n* Liver\nPancreas and gall bladder secrete juices into this part\nPancreasproduce pancreatic juice onto the food and gall bladder secrete\nLiver\nSecretes bile which is stored by the gall bladder\nThe gall bladder secretes bile into the duodenum via a\nBile emulsifies fats\nIt also neutralise acidic chyme\nPancreas: produce pancreatic juice which contains amylase-digests starch into maltose.\nIleum\nIs the second part of the small intestine\nFunctions\n-completely break down of food\n-absorption of digested food.\nLarge intestine(COLON):\nreceives the residues of digestion mostly cellulose\nFunction\n-to absorb large volumes of water and salt.\n-to synthesize vitamin K.\nRectum\nStores the undigestible food temporarily before being passed out as\nAppendix\nno function in humans\nAnus: Is the outlet for faeces"
+          }
+        ],
+        "time": 5
+      },
+      {
+        "label": "Step 3",
+        "rows": [
+          {
+            "teacher": "Explain TYPES OF DIGESTION:\n-TYPES OF DIGESTION\n-* Physical\n-* Chemical\n-PHYSICAL DIGESTION\nIs the process whereby food is broken down into smaller particles exerting an external force onto the food.\n-This only changes the form of food\n-CHEMICAL DIGESTION\nIs the breaking down of food particles into smaller molecules using enzymes.\nThis changes the food materials from simple to complex.\n-DIGESTION IN THE MOUTH\nIn the mouth, teeth grinds food making it swallow-able hence  increasing the surface area for enzymes\nThe tongue has taste buds which makes us perceive the flavour of the food,\nThe tongue also mixes the food with saliva.\nSaliva is produced by salivary glands.\nSaliva moistens the food.",
+            "student": "Listen, take notes, and ask clarifying questions.",
+            "points": "TYPES OF DIGESTION\n* Physical\n* Chemical\nPHYSICAL DIGESTION\nIs the process whereby food is broken down into smaller\nThis only changes the form of food\nCHEMICAL DIGESTION\nIs the breaking down of food particles into smaller molecules\nThis changes the food materials from simple to complex\nDIGESTION IN THE MOUTH\nIn the mouth, teeth grinds food making it swallow-able hence\nThe tongue has taste buds which makes us perceive the\nThe tongue also mixes the food with saliva\nSaliva is produced by salivary glands\nSaliva moistens the food"
+          }
+        ],
+        "time": 6
+      },
+      {
+        "label": "Step 4",
+        "rows": [
+          {
+            "teacher": "Explain Salivary Glands:\n-Salivary Glands\nProduce saliva which  contain water, mucus, salivary amylase.\nWater softens the food.\nMucus makes food slippery for easy swallowing.\nSalivary amylase digest starch to maltose.\n-Epiglottis\nIs a piece of tissue that covers  the entrance into the trachea when swallowing.\nEpiglottis stops the food particles from entering into the wind pipe.\nOesophagus: moves the food down  to the stomach in a process called swallowing.\n-Stomach\nCarries out mechanical/physical digestion.\nDue to its muscular contractions food is mixed with mucus and enzymes forming chime.\nIt carries out chemical digestion, since its walls produce enzymes that digest the food.\n-The Small Intestine\n-Has two parts\n-1. the duodenum\n-2. the ileum\n-Duodenum\nIs the first part of  the small intestines.\n-Has two organs\n-* Pancreas\n-* Liver\nPancreas and gall bladder secrete juices into this part.\nPancreasproduce pancreatic juice onto the food and gall bladder secrete bile onto the food passing in this part.\n-Liver\nSecretes bile which is stored by the gall bladder.\nThe gall bladder secretes bile into the duodenum via a bile duct.\nBile emulsifies fats.\nIt also neutralise acidic chyme.\nPancreas: produce pancreatic juice which contains amylase-digests starch into maltose. Trypsin-digests proteins into amino acids\n-Ileum\nIs the second part of the small intestine.\n-Functions\n-1. completely break down of food\n-2. absorption of digested food.\n-Large intestine(COLON):\nreceives the residues of digestion mostly cellulose.\n-Function\n-1. to absorb large volumes of water and salt.\n-2. to synthesize vitamin K.\n-Rectum\nStores the  undigestible food temporarily before being passed out as faeces through a process called defaecation.\n-Appendix\n-no function in humans\n-Anus: Is the outlet for faeces",
+            "student": "Listen, take notes, and ask clarifying questions.",
+            "points": "Salivary Glands\nProduce saliva which  contain water, mucus, salivary amylase\nWater softens the food\nMucus makes food slippery for easy swallowing\nSalivary amylase digest starch to maltose\nEpiglottis\nIs a piece of tissue that covers the entrance into\nEpiglottis stops the food particles from entering into the wind\nOesophagus: moves the food down to the stomach in a\nStomach\nCarries out mechanical/physical digestion\nDue to its muscular contractions food is mixed with mucus\nIt carries out chemical digestion, since its walls produce enzymes\nThe Small Intestine\nHas two parts\n-the duodenum\n-the ileum\nDuodenum\nIs the first part of  the small intestines\nHas two organs\n* Pancreas\n* Liver\nPancreas and gall bladder secrete juices into this part\nPancreasproduce pancreatic juice onto the food and gall bladder secrete\nLiver\nSecretes bile which is stored by the gall bladder\nThe gall bladder secretes bile into the duodenum via a\nBile emulsifies fats\nIt also neutralise acidic chyme\nPancreas: produce pancreatic juice which contains amylase-digests starch into maltose.\nIleum\nIs the second part of the small intestine\nFunctions\n-completely break down of food\n-absorption of digested food.\nLarge intestine(COLON):\nreceives the residues of digestion mostly cellulose\nFunction\n-to absorb large volumes of water and salt.\n-to synthesize vitamin K.\nRectum\nStores the undigestible food temporarily before being passed out as\nAppendix\nno function in humans\nAnus: Is the outlet for faeces"
+          }
+        ],
+        "time": 6
+      }
+    ],
+    "evaluation": [
+      {
+        "teacher": "Ask oral questions:\n1. Define or explain the topic.\n2. Name or list the key points covered about the topic.",
+        "student": "Respond to questions verbally or in written form.",
+        "points": "- HUMAN DIGESTIVE SYSTEM\n- DIGESTION\n- TYPES OF DIGESTION\n- DIGESTION IN THE MOUTH\n- Salivary Glands\n- Stomach",
+        "time": 5
+      }
+    ],
+    "conclusion": [
+      {
+        "teacher": "Summarise the key points covered in the lesson.\nGive an assignment or homework related to the topic.\nRemind learners to review their notes before the next lesson.",
+        "student": "Take note of the summary and the assignment.\nAsk any final questions.",
+        "points": "Summary of key concepts.\nAssignment given for further practice.",
+        "time": 3
+      }
+    ],
+    "duration": 40
+  }
+}
