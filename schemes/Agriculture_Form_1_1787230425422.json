@@ -1,0 +1,25 @@
+{
+  "subject": "Agriculture",
+  "year": "2026",
+  "term": "Term 1",
+  "cls": "Form 1",
+  "termStart": "2026-09-01",
+  "ability": "Mixed Ability",
+  "ageRange": "12 - 14",
+  "periods": "3 per week",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "Agriculture and the Environment",
+      "successCriteria": "- list the natural resources that influence agricultural production\n- explain the importance of each of the natural resources in agricultural production\n- identify ways in which natural resources that influence agricultural production can be depleted",
+      "plannedActivities": "- brainstorming natural resources that influence agricultural production\n- listing natural resources that influence agricultural production",
+      "methods": "Discussion; Question and Answer; Group Work; Pair Work; Brainstorming",
+      "resources": "Textbook; Charts; Pictures / Photographs",
+      "references": "Excel and Succeed,Junior Secondary Agriculture Student's Book  1\nSyllabus for Agriculture Form 1 - 2 by MOEST pages 1 - 11",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "01/09/26",
+      "dateEnd": "05/09/26"
+    }
+  ]
+}
