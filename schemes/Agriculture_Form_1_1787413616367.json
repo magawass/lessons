@@ -1,0 +1,78 @@
+{
+  "subject": "Agriculture",
+  "year": "2026",
+  "term": "Term 1",
+  "cls": "Form 1",
+  "termStart": "2026-09-14",
+  "ability": "Mixed Ability",
+  "ageRange": "12 - 14",
+  "periods": "3 per week",
+  "weeksPerTerm": "14",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "topic": "",
+      "successCriteria": "- list the  natural   resources  that  influence  agricultural  production,; - explain the importance of  each of the natural resources in agricultural production,; - identify ways in which natural resources that influence agricultural production can be depleted,",
+      "plannedActivities": "-brainstorming natural resources that influence agricultural production,; -listing natural resources that influence agricultural production,; -brainstorming the importance of natural resources that influence agricultural production,; -discussing the importance of natural resources that influence agricultural production,",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "14/09/26",
+      "dateEnd": "18/09/26"
+    },
+    {
+      "weekNum": 2,
+      "topic": "",
+      "successCriteria": "- define conservation of natural  resources,; - describe ways  of conserving soil, water, air  and vegetation,; - explain the effects of rapid population  increase on  natural resources  and the environment,",
+      "plannedActivities": "-summarizing the importance of natural resources that influence agricultural production,; -brainstorming ways in which natural resources that influence agricultural production can be depleted,; -summarizing ways in which natural resources that influence agricultural production ca be depleted,; -brainstorming the meaning of conservation for natural resources,",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "21/09/26",
+      "dateEnd": "25/09/26"
+    },
+    {
+      "weekNum": 3,
+      "topic": "",
+      "successCriteria": "REVISION",
+      "plannedActivities": "REVISION",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "28/09/26",
+      "dateEnd": "02/10/26"
+    },
+    {
+      "weekNum": 4,
+      "topic": "",
+      "successCriteria": "EXAMINATIONS",
+      "plannedActivities": "EXAMINATIONS",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "05/10/26",
+      "dateEnd": "09/10/26"
+    },
+    {
+      "weekNum": 5,
+      "topic": "",
+      "successCriteria": "EXAMINATIONS",
+      "plannedActivities": "EXAMINATIONS",
+      "methods": "",
+      "resources": "",
+      "references": "",
+      "outcomes": "",
+      "remarks": "",
+      "dateStart": "12/10/26",
+      "dateEnd": "16/10/26"
+    }
+  ]
+}
